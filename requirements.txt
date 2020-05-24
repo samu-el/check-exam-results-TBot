@@ -5,7 +5,7 @@ beautifulsoup4==4.6.0
 bs4==0.0.1
 chardet==3.0.4
 google-api-python-client==1.6.5
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 idna-ssl==1.0.1
 multidict==4.1.0
