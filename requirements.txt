@@ -17,7 +17,7 @@ rsa==3.4.2
 six==1.11.0
 telepot==12.6
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 yarl==1.1.1
 emoji==0.5.0
 requests==2.20.0
